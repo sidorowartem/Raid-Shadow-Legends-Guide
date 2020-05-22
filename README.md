@@ -7,6 +7,7 @@ Guide for the Raid: Shadow Legends / Гайд для игры Raid: Shadow Legen
 
 ### Авторы: 
 Изгонятель
+
 Roiga
 
 Копирование и использование без разрешения авторов запрещены. 
