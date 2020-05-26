@@ -1,7 +1,7 @@
 # Raid-Shadow-Legends-Guide
 Guide for the Raid: Shadow Legends / Гайд для игры Raid: Shadow Legends
 
-Написан и актуален для версии 1.15.4
+Написан и актуален для версии 1.15.5
 
 Гайд в процессе работы. Feel free to оставлять свои предложения. 
 
